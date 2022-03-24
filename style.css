@@ -235,5 +235,5 @@ h4:hover span {
 }
 
 .main-source img {
-  align-items: center;
+  border-radius :2rem;
 }
